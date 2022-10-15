@@ -1,0 +1,19 @@
+body {
+            background-image: url("https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3081563885,271686082&fm=26&gp=0.jpg");
+        <!-- background-repeat: no-repeat;
+        background-position: center center -->}
+        div{text-align: center}
+        h1{color: white;font-family: KaiTi,serif;font-size: 40px;background-color: darkblue}
+        h3{color: white;font-family: KaiTi,serif;font-size: 40px}
+        h4{color: black;font-family: KaiTi,serif;font-size: 40px}
+        p{color: black;font-family: KaiTi,serif;font-size: 40px}
+        a:link{color: Blue;}
+        a:visited{color: Purple;}
+        a:hover{color: LightSkyBlue;}
+        a:active{color: Purple;}
+        .ex{
+            background-color: blue;
+            padding: 10px;
+            border: 5px solid gray;
+            margin: 0;
+        }
